@@ -1,8 +1,10 @@
 body{
     font: 20px Arial;
+    
 }
 .navbar{
  background-color: #53611577 ;
+ 
 }
 .quem-somos{
  background-color: #8b7f37;
@@ -15,7 +17,7 @@ body{
    padding-top: 10px;
 }
 .parceiros{
-  background-color:#46250a96;
+  background-color:#fff;
 
 
 }
@@ -23,4 +25,9 @@ body{
     background-color: black;
     color:#fff;
     padding-bottom: 10px;
+
+    
+}#servicos{
+ background-color: #8b7f37;
+ color: #fff;
 }
